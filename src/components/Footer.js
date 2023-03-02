@@ -3,7 +3,7 @@ function Footer() {
         <footer>
             <p>
                 
-                <a className="website-link" href="">
+                <a className="website-link" href="https://linktr.ee/hmjatt">
                     
                 </a>
             </p>
