@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Meme from "./components/app";
+import Meme from "./components/Meme";
 import Footer from "./components/Footer";
 
 import "./styles/App.css";
