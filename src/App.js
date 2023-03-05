@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Meme from "./components/Meme";
+import Meme from "./components/app";
 import Footer from "./components/Footer";
 
 import "./styles/App.css";
@@ -9,7 +9,7 @@ function App() {
         <div className="App">
             <Header />
             <Meme />
-            <Footer />
+            <Footer />z
         </div>
     );
 }
